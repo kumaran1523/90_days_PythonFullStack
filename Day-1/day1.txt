@@ -1,0 +1,60 @@
+✅ DAY 1 — Python Installation + Variables + Data Types + 20 Practice Programs
+
+    🟩 Python Basics
+
+    🔹 1. Variables
+
+    ✔️ Definition
+
+    A variable is a name used to store a value in memory.
+    It allows you to reuse and manipulate the value later.
+
+    ✔️ Example
+    name = "Kumaran"
+    age = 22
+
+    🔹 2. Data Types
+
+    Python has different data types based on the type of value stored.
+
+    📌 Common Data Types
+
+    | Data Type | Description                    | Example             |
+| --------- | ------------------------------ | ------------------- |
+| `int`     | Whole numbers                  | `10`, `-5`          |
+| `float`   | Decimal numbers                | `3.14`              |
+| `str`     | Text                           | `"Hello"`           |
+| `bool`    | True/False values              | `True`, `False`     |
+| `list`    | Ordered, changeable collection | `[1, 2, 3]`         |
+| `tuple`   | Ordered, unchangeable          | `(1, 2, 3)`         |
+| `dict`    | Key–Value pairs                | `{"name": "Kumar"}` |
+| `set`     | Unique items                   | `{1, 2, 3}`         |
+
+    ✔️ Examples
+    num = 10          # int
+    pi = 3.14         # float
+    message = "Hi"    # str
+    is_active = True  # bool
+
+✅ 20 Basic Practice Programs – Day 1 (Questions Only)
+
+1. Write a program to print your name.
+2. Write a program to add two numbers.
+3. Write a program to subtract two numbers.
+4. Write a program to multiply two numbers.
+5. Write a program to divide two numbers.
+6. Write a program to take name input from the user and display it.
+7. Write a program to take age input from the user and increase it by 1.
+8. Write a program to swap two numbers.
+9. Write a program to find the area of a rectangle.
+10. Write a program to find the area of a circle.
+11. Write a program to find the remainder when one number is divided by another.
+12. Write a program to calculate simple interest.
+13. Write a program to convert Celsius temperature to Fahrenheit.
+14. Write a program to find the square of a number.
+15. Write a program to find the cube of a number.
+16. Write a program to check if a number is even or odd.
+17. Write a program to find the largest of two numbers.
+18. Write a program to print “Welcome to Python!”.
+19. Write a program to concatenate two strings.
+20. Write a program to print your name, age, and address.

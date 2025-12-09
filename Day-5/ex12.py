@@ -11,3 +11,4 @@ for char in text:
     
 for k,v in freq.items():
     print(k,":",v)
+    
