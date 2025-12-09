@@ -1,0 +1,19 @@
+Practice Problems (Day-2)
+
+Try these yourself in practice_day2.py.
+
+⭐ 1. Check if a number is positive, negative or zero
+⭐ 2. Check if a number is even or odd
+⭐ 3. Find the largest of 3 numbers
+⭐ 4. Calculate area of circle (πr²)
+⭐ 5. Check if a number is divisible by 5 and 11
+⭐ 6. Check if a year is a leap year
+⭐ 7. Input age and check eligible for driving license
+⭐ 8. Accept two numbers and find the greatest
+⭐ 9. Accept three sides and check if triangle is valid
+⭐10. Accept a character and check vowel or consonant
+⭐11. Input marks and print grade (A, B, C, Fail)
+⭐12. Print “hello” n times (use loop)
+⭐13. Simple calculator using if/elif
+⭐14. Check if number is between 1 and 100
+⭐15. Check if person is child / adult / senior (age categories)

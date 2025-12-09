@@ -1,0 +1,38 @@
+20 Practice Programs (Day-3)
+
+Complete these in practice_day3.py.
+
+🔸 1. Print numbers 1–50
+🔸 2. Print even numbers from 1–100
+🔸 3. Print odd numbers from 1–50
+🔸 4. Find sum of numbers from 1–n
+🔸 5. Print multiplication table of any number
+🔸 6. Count digits in a number
+🔸 7. Reverse a number
+🔸 8. Check if a number is palindrome
+🔸 9. Print Fibonacci series (n terms)
+🔸 10. Find factorial of a number
+🔸 11. Print all prime numbers between 1–100
+🔸 12. Check if a number is prime
+🔸 13. Print star triangle pattern
+🔸 14. Print inverted triangle
+🔸 15. Print number triangle pattern
+🔸 16. Sum of even numbers from 1–n
+🔸 17. Sum of odd numbers from 1–n
+🔸 18. Print each character of a string using loop
+🔸 19. Print string in reverse using loop
+🔸 20. Count vowels in a string
+
+
+Small Assignment
+
+Write a program to print this pattern:
+
+    *
+   ***
+  *****
+ *******
+*********
+
+
+(Pyramid pattern)

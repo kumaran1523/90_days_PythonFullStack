@@ -1,0 +1,23 @@
+    🧠 20 LIST / TUPLE PRACTICE PROBLEMS
+
+
+    1. Create a list and print all elements
+    2. Find the sum of all elements
+    3. Find min & max
+    4. Count how many times a value appears
+    5. Print even numbers only
+    6. Print odd numbers only
+    7. Reverse a list without using reverse()
+    8. Remove duplicates
+    9. Find second largest
+    10. Merge two lists
+    11. Sort list ascending and descending
+    12. Check if value exists in list
+    13. Get common elements between 2 lists
+    14. Replace value at a given index
+    15. Convert tuple → list and list → tuple
+    16. Slice list to get middle elements
+    17. Access last 3 elements using slicing
+    18. Compare two tuples
+    19. Create tuple and print using loop
+    20. Remove item from list using slicing

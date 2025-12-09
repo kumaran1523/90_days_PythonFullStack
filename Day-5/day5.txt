@@ -1,0 +1,53 @@
+📘 Day 5 – Dictionary & Set Practice Questions
+
+    ⭐ Dictionary Questions (Basic to Medium)
+    1. Create a dictionary of 5 students with marks and print it.
+    2. Add a new key–value pair into an existing dictionary.
+    3. Update the value of an existing key.
+    4. Delete a key from a dictionary using del.
+    5. Delete a key using pop() and print the removed value.
+    6. Check if a key exists in the dictionary.
+    7. Print all keys using keys().
+    8. Print all values using values().
+    9. Print all key-value pairs using items().
+    10. Create a dictionary and print only the keys whose value is greater than 50.
+    11. Merge two dictionaries into one.
+    12. Count the frequency of each character in a string using a dictionary.
+
+
+    ⭐ Dictionary – User Input Questions
+
+    13. Take 5 names and marks from the user and store in a dictionary.
+    14. Store 5 product names with prices (user input) and print the cheapest product.
+    15. Take input from user: enter a name → show phone number (search in dictionary).
+    16. Create a dictionary where key = number and value = its square. (1 to n)
+        
+    🟩 Set Questions
+    
+    17. Create a set and add 5 elements.
+    18. Remove an element using remove().
+    19. Remove an element using discard() and explain difference.
+    20. Check if a value exists in the set.
+    21. Find union of two sets.
+    22. Find intersection of two sets.
+    23. Find difference between two sets.
+    24. Convert list → set to remove duplicates.
+    25. Convert set → list.
+
+
+    ⭐ Mini Project (Must Do)
+    26. Contact Book using Dictionary
+
+    Menu:
+
+   1. Add contact
+
+   2. View contact
+
+   3. Update contact
+
+   4. Delete contact
+
+   5. View all contacts
+
+   6. Exit
