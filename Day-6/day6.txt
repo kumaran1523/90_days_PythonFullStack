@@ -1,0 +1,196 @@
+🔥 DAY 6 – FUNCTIONS, LAMBDA & RECURSION
+
+Topics covered today:
+
+✔ What is a function?
+✔ Why functions are used
+✔ Defining & Calling functions
+✔ Types of parameters
+✔ Return statement
+✔ Lambda functions
+✔ Recursion
+✔ 20 Practice Questions
+
+    ⭐ 1. What is a Function?
+
+    A function is a block of code that runs only when you call it.
+
+    👉 Example
+    def greet():
+        print("Hello!")
+
+
+    Calling the function:
+
+    greet()
+
+
+
+    ⭐ 2. Why Functions?
+
+    ✔ Avoid rewriting same code
+    ✔ Code becomes clean & modular
+    ✔ Easy to debug
+    ✔ Reusable
+
+    ⭐ 3. Creating and Calling a Function
+
+    Syntax:
+
+    def function_name():
+        # code
+
+    Example:
+
+    def welcome():
+        print("Welcome to Python!")
+        
+    welcome()
+
+
+
+    ⭐ 4. Function With Parameters
+
+    Parameters = values we pass to a function.
+
+    Example:
+    def add(a, b):
+        print("Sum =", a + b)
+    add(10, 20)
+
+
+
+    ⭐ 5. Function With Return Value
+
+    A return sends a value back to the caller.
+
+    Example:
+    def square(n):
+        return n * n
+    result = square(5)
+    print(result)
+
+
+
+    ⭐ 6. TYPES OF PARAMETERS
+
+    ✔ 1. Positional Parameters
+
+    Values are passed in correct order.
+
+    def divide(a, b):
+        print(a / b)
+    divide(10, 2)  # correct
+
+
+    ✔ 2. Keyword Parameters
+
+    You specify key=value.
+
+    def info(name, age):
+        print(name, age)
+    info(age=21, name="Kumaran")
+
+    ✔ 3. Default Parameters
+
+    If no value is passed → default value used.
+
+    def greet(name="Guest"):
+        print("Hello", name)
+
+    greet()
+    greet("Kumaran")
+
+    ✔ 4. Variable-Length Parameters
+
+    (a) *args → accepts many values
+    def total(*numbers):
+        print(sum(numbers))
+
+    total(1, 2, 3, 4, 5)
+
+    (b) **kwargs → accepts key=value pairs
+    def details(**data):
+        print(data)
+
+    details(name="Kumaran", age=21)
+
+⭐ 7. LAMBDA FUNCTION (Anonymous Function)
+
+A lambda is a one-line function without name.
+
+Syntax:
+
+lambda arguments: expression
+
+Example:
+
+add = lambda a, b: a + b
+print(add(4, 5))
+
+More Lambda Examples:
+✔ Square of number
+square = lambda x: x*x
+print(square(6))
+
+✔ Even or Odd
+is_even = lambda n: n % 2 == 0
+print(is_even(10))
+
+⭐ 8. RECURSION
+
+A function calling itself.
+
+Example: factorial using recursion
+
+def fact(n):
+    if n == 1:
+        return 1
+    return n * fact(n - 1)
+
+print(fact(5))
+
+
+Flow:
+
+fact(5)
+5 * fact(4)
+4 * fact(3)
+3 * fact(2)
+2 * fact(1)
+
+
+
+⭐ 9. Day 6 – Practice Questions (20)
+
+Functions
+
+1.Write a function to add two numbers.
+2. Write a function to check if a number is even or odd.
+3. Write a function to return the square of a number.
+4. Write a function that takes name & age and prints them.
+5. Write a function to calculate simple interest.
+6. Write a function that returns the largest of 3 numbers.
+7. Write a function that counts vowels in a string.
+8. Write a function that prints multiplication table of a number.
+
+Parameter Types
+
+9. Write a function using default parameters.
+10. Write a function using *args to print total sum.
+11. Write a function using **kwargs to print student details.
+
+Lambda
+
+12. Lambda to find cube of a number.
+13. Lambda to find maximum of two numbers.
+14. Lambda to check whether a string contains 'a'.
+15. Lambda to reverse a string.
+
+Recursion
+
+16. Recursive function to print numbers 1–10.
+17. Recursive function to calculate factorial.
+18. Recursive function to find sum of digits.
+19. Recursive function to print Fibonacci series.
+20. Recursive function to find power (xⁿ).
