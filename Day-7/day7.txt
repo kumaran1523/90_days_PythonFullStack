@@ -1,0 +1,104 @@
+⭐ DAY 7 – PRACTICE + REVISION DAY
+
+📌 What to do today:
+✔ Revise topics from Day 1–6
+✔ Practice 50 Python basic-level questions
+✔ Try solving at least 10 on HackerRank (optional but recommended)
+✔ Run each program in VS Code
+________________________________________
+
+🎯 Topics to Revise Before Practice
+
+Revise these:
+
+1. Python Basics
+•	Variables
+•	Data types
+•	Input/Output
+•	If–else
+•	Loops
+•	Patterns
+2. Collections
+•	List
+•	Tuple
+•	Set
+•	Dictionary
+3. Functions
+•	Parameters, return
+•	*args, **kwargs
+•	Lambda
+•	Recursion
+________________________________________
+
+🔥 50 PRACTICE QUESTIONS (BEGINNER–FRIENDLY)
+These closely match HackerRank Python Basic patterns.
+________________________________________
+
+✅ A. Basic Input/Output & Operators (1–10)
+1.	Take two integers and print their sum.
+2.	Take two numbers and print which one is greater.
+3.	Accept age and check if eligible to vote.
+4.	Check if a number is even or odd.
+5.	Swap two numbers (without temp).
+6.	Accept a number and print its multiplication table.
+7.	Find the cube of a number.
+8.	Convert Celsius to Fahrenheit.
+9.	Accept 3 numbers and print the largest.
+10.	Accept marks and print grade (A/B/C/D/Fail).
+________________________________________
+✅ B. Loop Questions (11–20)
+11.	Print numbers from 1 to 100.
+12.	Print even numbers between 1–50.
+13.	Sum of first N natural numbers.
+14.	Reverse a number (123 → 321).
+15.	Count digits in a number.
+16.	Print stars in triangle pattern.
+17.	Print prime numbers between 1–50.
+18.	Print Fibonacci series of N terms.
+19.	Check if a number is prime.
+20.	Calculate factorial using loop.
+________________________________________
+✅ C. List Questions (21–30)
+21.	Create a list and print all elements.
+22.	Find sum of list elements.
+23.	Find min and max in a list.
+24.	Reverse list without using reverse().
+25.	Count occurrences of a given value.
+26.	Print even numbers from a list.
+27.	Remove duplicates from list.
+28.	Merge two lists.
+29.	Get common elements between 2 lists.
+30.	Find second largest number in list.
+________________________________________
+✅ D. Dictionary Questions (31–40)
+31.	Create a dictionary of 5 students with marks.
+32.	Add a new key–value pair.
+33.	Delete a key using pop().
+34.	Check if a key exists in dictionary.
+35.	Print only keys.
+36.	Print only values.
+37.	Print keys whose value > 50.
+38.	Count frequency of characters in a string.
+39.	Merge two dictionaries.
+40.	Find cheapest product from dictionary.
+________________________________________
+✅ E. Functions + Lambda + Recursion (41–50)
+41.	Write a function to add 2 numbers.
+42.	Function to return square of a number.
+43.	Function to check palindrome (string).
+44.	Function to count vowels in a string.
+45.	Function using *args to find sum.
+46.	Function using **kwargs to print student details.
+47.	Lambda to find cube of a number.
+48.	Lambda to check even or odd.
+49.	Recursive function to find factorial.
+50.	Recursive function to print Fibonacci series.
+________________________________________
+⭐ How to Use These Questions Today
+Step 1 → Solve Q1–20 (Basics + loops)
+Step 2 → Solve Q21–40 (List + dict)
+Step 3 → Solve Q41–50 (functions)
+Step 4 → Attempt 10 HackerRank Python Basic Problems
+You can search:
+🔎 HackerRank → Python → Basic Challenges
+

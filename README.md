@@ -41,3 +41,8 @@
     Functions, Lambda, Recursion
     
     Parameter types
+
+# Day 7 
+    Practice day + revision 
+    
+    Solve 50 questions on HackerRank (Python Basic)
