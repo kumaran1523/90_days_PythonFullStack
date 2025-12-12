@@ -1,0 +1,42 @@
+⭐ MINI PROJECT: Student Management System (Python Console Project)
+
+This project perfectly matches all the topics from Day 1–7.
+
+You will build a menu-driven application to manage student records.
+________________________________________
+
+🎯 Features to Include
+
+✔ 1. Add New Student
+Store:
+•	Name
+•	Roll Number
+•	3 Subject Marks (List)
+•	Average Marks (calculated)
+
+✔ 2. View All Students
+Print all records in a neat table.
+
+✔ 3. Search Student by Roll Number
+If found → show full details.
+
+✔ 4. Update Student Marks
+Use list operations.
+
+✔ 5. Delete a Student
+Using dictionary pop().
+
+✔ 6. Display Topper (Highest Average)
+Use max(dict, key=...).
+
+✔ 7. Generate Grade
+Use conditions:
+•	≥90: A
+•	≥75: B
+•	≥60: C
+•	≥40: D
+•	<40: Fail
+
+✔ 8. Export All Students to a List / Tuple
+Demonstrates list/tuple conversion.
+

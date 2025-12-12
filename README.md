@@ -46,3 +46,9 @@
     Practice day + revision 
     
     Solve 50 questions on HackerRank (Python Basic)
+
+# Day1 to Day 7
+
+    Hello Nanba I made a Mini project Student management System **(python Console based project)**.
+    Very easy to understand.
+    What are the topic I studied till day 1 to 7 ,using that topic only to create thismini project.
