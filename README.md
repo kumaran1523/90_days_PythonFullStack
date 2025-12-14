@@ -52,3 +52,8 @@
     Hello Nanba I made a Mini project Student management System **(python Console based project)**.
     Very easy to understand.
     What are the topic I studied till day 1 to 7 ,using that topic only to create thismini project.
+
+# Day 8
+
+    File handling and practice questions
+    **day 1 to day 8** we use and made one miniproject for better understanding 

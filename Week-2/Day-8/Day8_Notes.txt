@@ -1,0 +1,31 @@
+📝 Practice Questions (Day 8)
+
+🟢 Basic
+1.	Create a file and write your name and age.
+2.	Read and print file content.
+3.	Append your city to the same file.
+4.	Count number of lines in a file.
+5.	Count number of words in a file.
+________________________________________
+🟡 Intermediate
+6.	Store 5 student names in a file.
+7.	Read student names and print them one by one.
+8.	Store marks and calculate average.
+9.	Search a name in file.
+10.	Copy contents from one file to another.
+________________________________________
+🔵 Advanced
+11.	Count frequency of each word in file.
+12.	Remove empty lines from file.
+13.	Find longest word in file.
+14.	Store dictionary data into file.
+15.	Read file and convert to list.
+________________________________________
+🎯 Mini Task (Recommended)
+👉 Student Record File System
+•	Add student
+•	View students
+•	Save to file
+•	Load from file
+(Uses Day 1–8 concepts together)
+
