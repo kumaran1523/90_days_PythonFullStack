@@ -1,0 +1,25 @@
+📝 Practice Questions – Day 9
+
+🟢 Exception Handling
+1.	Handle divide by zero error
+2.	Handle invalid user input
+3.	Open a file safely using try-except
+4.	Use else block example
+5.	Use finally block example
+________________________________________
+
+🟡 Modules
+6.	Use math module to calculate square & cube
+7.	Generate random OTP (4 digits)
+8.	Use os module to check file exists
+9.	Import specific function from module
+10.	Rename module and use it
+________________________________________
+
+🎯 Mini Task (Recommended)
+
+👉 Safe Calculator
+•	Input two numbers
+•	Perform add, subtract, multiply, divide
+•	Handle all errors using try-except
+

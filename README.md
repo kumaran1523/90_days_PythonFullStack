@@ -57,3 +57,8 @@
 
     File handling and practice questions
     **day 1 to day 8** we use and made one miniproject for better understanding 
+
+# Day 9
+
+    Exceptional handling
+    Modules
