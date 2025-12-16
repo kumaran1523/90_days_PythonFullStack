@@ -1,0 +1,30 @@
+📝 Practice Questions – Day 10
+
+🟢 Math Module
+1.	Find square root of a number
+2.	Find power of a number
+3.	Calculate factorial of user input
+4.	Round a float number up & down
+5.	Find area of circle using math.pi
+________________________________________
+🟡 Datetime Module
+6.	Print current date and time
+7.	Print only today’s date
+8.	Format date as DD/MM/YYYY
+9.	Calculate age using birth year
+10.	Print current time only
+________________________________________
+🔵 OS Module
+11.	Check if file exists
+12.	Create a folder using os
+13.	Delete a file safely
+14.	List all files in current directory
+15.	Print current working directory
+________________________________________
+🎯 Mini Task (Recommended)
+👉 System Utility Program
+•	Show date & time
+•	Create folder
+•	Check file exists
+•	Use math calculations
+

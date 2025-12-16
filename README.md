@@ -61,4 +61,9 @@
 # Day 9
 
     Exceptional handling
-    Modules
+    Custom Exceptions
+
+# Day 10
+
+    Modules & Packages
+    Math, Datetime, OS module
