@@ -67,3 +67,10 @@
 
     Modules & Packages
     Math, Datetime, OS module
+
+# Day 11
+
+    OOP concepts
+    Class/Object
+    Constructor
+    Methods

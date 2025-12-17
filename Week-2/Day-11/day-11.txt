@@ -1,0 +1,24 @@
+📝 Practice Questions – Day 11
+
+🟢 Basic
+1.	Create a class Car with brand and price
+2.	Create an object and print values
+3.	Use constructor to initialize values
+4.	Create method to display details
+5.	Create class Person with name and age
+________________________________________
+🟡 Intermediate
+6.	Create class Student with marks and find pass/fail
+7.	Create multiple objects
+8.	Create method to calculate average
+9.	Create class Employee with salary
+10.	Print employee bonus
+________________________________________
+🔵 Mini Task
+11.	Bank Account Class
+•	account number
+•	balance
+•	deposit()
+•	withdraw()
+•	show_balance()
+
