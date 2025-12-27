@@ -1,7 +1,5 @@
 20 Practice Programs (Day-3)
 
-Complete these in practice_day3.py.
-
 🔸 1. Print numbers 1–50
 🔸 2. Print even numbers from 1–100
 🔸 3. Print odd numbers from 1–50

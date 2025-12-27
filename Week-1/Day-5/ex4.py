@@ -1,6 +1,6 @@
 #  4. Delete a key from a dictionary using del.
 
-student={"kumaran":56,"saroo":45,"Sayan":89,"Sanya":99}
+student={"kumaran":56,"Dev":99,"Ganga":89,"Harshu":99}
 
 print('The records before delete:')
 for k,v in student.items():

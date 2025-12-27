@@ -5,17 +5,17 @@ student={}
 
 for i in range(limit):
     name=input(f"Enter a name {i+1} :")
-    mark=int(input(f"Enter a{name}'s mark : "))
+    mark=int(input(f"Enter a {name}'s mark : "))
     student[name]=mark
 print("The records are:")
 for k,v in student.items():
     print(k,":",v)
     
-update_value=input('Enter a nme to update mark :')
+update_value=input('Enter a name to update mark :')
 
 if(update_value in student):
     update=int(input("Enter a updated mark :"))
-    student[name]=update
+    student[update_value]=update
 else:
     print("The given name is not in a record")
     

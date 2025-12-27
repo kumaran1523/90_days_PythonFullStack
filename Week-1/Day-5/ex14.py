@@ -13,6 +13,6 @@ for key,value in product.items():
     
 cheapest_product=min(product,key=product.get) 
 
-'''#min(dictionary,key=dictionary.get) ==>Tha product values is stored in key and get minimum value ofproduct name'''
+'''#min(dictionary,key=dictionary.get) ==>Tha product values is stored in key and get minimum value of product name'''
 
 print(f"The cheapest product is:{cheapest_product}")

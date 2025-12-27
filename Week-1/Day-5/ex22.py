@@ -18,4 +18,4 @@ for j in range(limit2):
     
 print('The set 2 is :',set2)
 
-print('The intersection of two sets is :',set1&set2)
+print('The intersection of two sets is :',set1.intersection(set2))

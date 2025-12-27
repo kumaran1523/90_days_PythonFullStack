@@ -1,4 +1,4 @@
-# 15. Convert tuple → list and list → tuple
+# 15. Convert 'tuple → list' and 'list → tuple'
 
 tup=(1,2,3,4)
 lst=list(tup)

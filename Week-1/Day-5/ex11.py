@@ -2,12 +2,12 @@
 
 dict1={
     'kumar':45,
-    "saroo":78,
+    "ganga":78,
 }
 
 dict2={
-    "sayan":89,
-    "sanya":99
+    "harshu":89,
+    "Dev":99
 }
 print("The dict1 dictionary is:")
 for k,v in dict1.items():

@@ -14,6 +14,6 @@ print("---------------------------------------------------")
 list3=[]
 
 for j in list2:
-    list3.insert(0,j)
-
+    list3.append(j)
+list3.sort(reverse=True)
 print(f"The Descending order of {list1} is :{list3}")

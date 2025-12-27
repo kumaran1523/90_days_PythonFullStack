@@ -2,7 +2,7 @@
 
 student={
     "kumar":45,
-    "saroo":99,
+    "Dev":99,
     "sayan":89,
     "sanya":100
 }

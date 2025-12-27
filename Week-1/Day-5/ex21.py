@@ -18,4 +18,4 @@ for j in range(limit2):
   
 print("The set 2 is :",set_2)
 
-print("The union of two sets is :",set_1|set_2)
+print("The union of two sets is :",set_1.union(set_2))

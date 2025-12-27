@@ -4,7 +4,7 @@ limit=int(input("Enter a limit:"))
 my_set=set()
 
 for i in range(limit):
-    number=int(input(f'Enter a ssrt {i+1} :'))
+    number=int(input(f'Enter a set {i+1} :'))
     my_set.add(number)
     
 print("The set is:",my_set)
