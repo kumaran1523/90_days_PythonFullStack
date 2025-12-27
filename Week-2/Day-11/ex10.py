@@ -13,7 +13,7 @@ class Employee:
         print()
         
 e1=Employee("Kumar",20000)
-e2=Employee("Saroo",50000)
+e2=Employee("Dev",500000)
 e3=Employee("Sanya",90000)
 e1.display()
 e2.display()

@@ -9,7 +9,7 @@ class Student:
         print("Age :",self.age)
         print()
 s1=Student("Kumar",23)
-s2=Student("Saroo",22)
+s2=Student("Dev",22)
 s3=Student("Sanya",5)
 s4=Student("Sayan",3)
 s1.display()

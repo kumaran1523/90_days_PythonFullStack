@@ -4,3 +4,4 @@ def joe(name="kumaran"):
     print("Hello",name)
     
 joe()
+joe("Ganga")
