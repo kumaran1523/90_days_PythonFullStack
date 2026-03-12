@@ -1,0 +1,45 @@
+📘 Day 12 – Practice Questions (OOP Advanced)
+________________________________________
+🟢 A. Inheritance (Basics → Advanced)
+1.	Create a parent class Person with method show_name().
+2.	Create a child class Student that inherits Person and adds show_role().
+3.	Create an object of Student and call both methods.
+4.	Create parent class Vehicle with method start().
+5.	Create child class Car that overrides start().
+6.	Demonstrate single inheritance using Animal → Dog.
+7.	Demonstrate multilevel inheritance using A → B → C.
+8.	Demonstrate multiple inheritance using Father and Mother.
+9.	Use super() to call parent constructor.
+10.	Create a class Employee and child class Manager with extra attribute.
+________________________________________
+🟡 B. Polymorphism
+1.	Create a parent class Shape with method area().
+2.	Override area() in Circle and Rectangle and create objects of both classes and call area().
+________________________________________
+🔵 C. Encapsulation
+1.	Create a class Bank with private variable __balance.
+2.	Create methods deposit() and withdraw().
+3.	Prevent direct access to __balance.
+4.	Create a getter method to show balance.
+5.	Create a setter method to update balance.
+6.	Create Student class with private marks.
+7.	Add bonus marks using method.
+8.	Try accessing private variable directly (observe error).
+9.	Create Employee class with private salary.
+10.	Protect data using encapsulation.
+________________________________________
+🔴 D. Abstraction
+1.	Create abstract class Shape.Implement area() in Circle.	Implement area() in Rectangle.
+________________________________________
+🟣 E. Mixed / Mini Tasks
+1.	Create ATM system using abstraction and encapsulation.
+2.	Create bank account system using inheritance.
+3.	Create student management using encapsulation.
+4.	Use polymorphism to calculate areas of shapes.
+5.	Create vehicle system using all OOP concepts.
+6.	Create employee hierarchy using inheritance.
+7.	Use abstract class for online order system.
+8.	Protect sensitive data using encapsulation.
+9.	Use super() in multilevel inheritance.
+10.	Combine all OOP concepts in one program.
+
