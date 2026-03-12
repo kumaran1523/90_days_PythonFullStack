@@ -74,3 +74,14 @@
     Class/Object
     Constructor
     Methods
+
+# Day 12
+
+    Encpasulation
+    Polymorphism
+    Inheritance
+    Abstraction 
+
+# Day 13
+
+    OOP Mini project (Bank Management System)
