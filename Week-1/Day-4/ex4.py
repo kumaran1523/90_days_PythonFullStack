@@ -4,7 +4,7 @@
 # cnt=[10,3,4,5,2,3,4,4]
 # print(cnt.count(4))
 
-number=int(input("Enter how many values store in list:"))
+number=int(input("Enter how many values you need to store in list:"))
 lst=[]
 
 for i in range(number):

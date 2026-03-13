@@ -11,7 +11,7 @@ for i in range(limit):
 reverse_list=[]
 
 for j in lst:
-    reverse_list.insert(0,j)  #inser(position,value)
+    reverse_list.insert(0,j)  #insert(position,value)
 
 print("The original List:",lst)
 print("------------------")
