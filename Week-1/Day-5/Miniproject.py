@@ -17,8 +17,8 @@
 '''
 
 contact={
-    "kumaran":"8056565626",
-    "saranya":"1431431435"
+    "Kumaran":"8056565626",
+    "Ganga":"1431431435"
 }
 
 while True:

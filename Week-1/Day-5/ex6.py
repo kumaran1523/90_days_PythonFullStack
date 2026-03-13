@@ -3,8 +3,8 @@
 student={
     "kumar":45,
     "Dev":99,
-    "sayan":89,
-    "sanya":100
+    "Ganga":89,
+    "Harshu":100
 }
 
 check_key=input('Enter a name:')
