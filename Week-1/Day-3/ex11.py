@@ -7,6 +7,4 @@ for i in range(1,101):
                 break
         else:
             print(i,end=" ")
-
-
     
